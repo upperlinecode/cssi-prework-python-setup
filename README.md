@@ -6,13 +6,13 @@
 
 ## Overview
 
-Before we can move into learning Python, we need to make sure that we have all of the necessary dependencies installed to be able to run Unit Tests. Follow the instructions below to get set up to run `learn` from your labs.
+Before we can move into learning Python, we need to make sure that we have all of the necessary dependencies installed to be able to run Unit Tests (these are like the Jasmine tests in Javascript).
 
 ## Instructions
 
 From your terminal run `easy_install pip`. `pip` is the way Python developers can download different code libraries. You'll learn more about it later in the prework.
 
-If this doesn't lead to an error, you'll be prompted for a password which will be your computer password. 
+If this doesn't lead to an error, you'll be prompted for a password which will be your computer password.
 
 Then run: `easy_install nose`
 
@@ -24,13 +24,11 @@ If `easy_install pip` leads to an error that starts with message: can't create o
 
 `sudo easy_install pip`
 
-You'll be prompted for a password which will be your computer password. 
+You'll be prompted for a password which will be your computer password.
 
 Then try running `learn` again. If it doesn't work, then run
 
 `sudo easy_install nose`
-
-Then try running `learn` again. This should do the trick. 
 
 ---
 If this still doesn't work, try `sudo pip install nose-json`
