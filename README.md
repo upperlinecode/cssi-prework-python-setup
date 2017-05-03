@@ -16,7 +16,6 @@ If this doesn't lead to an error, you'll be prompted for a password which will b
 
 Then run: `easy_install nose`
 
-In your next lab run: `learn` - you should be all set to go.
 
 ---
 
@@ -25,8 +24,6 @@ If `easy_install pip` leads to an error that starts with message: can't create o
 `sudo easy_install pip`
 
 You'll be prompted for a password which will be your computer password.
-
-Then try running `learn` again. If it doesn't work, then run
 
 `sudo easy_install nose`
 
